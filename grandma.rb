@@ -11,11 +11,11 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-grandma = "I LOVE YOU GRANDMA!"
-if grandma == "does hear"
+speak_to_grandma = "I LOVE YOU GRANDMA!"
+if speak_to_grandma == "does hear"
   puts "I LOVE YOU TOO PUMKPIN!"
-elsif grandma == "barely hears"
+elsif speak_to_grandma == "barely hears"
   puts "NO, NOT SINCE 1938!"
-else grandma == "can't hear"
+else speak_to_grandma == "can't hear"
   puts "HUH?! SPEAK UP, SONNY!"
 end
