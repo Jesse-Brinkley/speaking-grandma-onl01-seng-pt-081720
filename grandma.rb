@@ -21,5 +21,5 @@ elsif speak_to_grandma == "Hi!"
 elsif speak_to_grandma == 'WHAT DID YOU EAT TODAY?'
   puts "NO, NOT SINCE 1938!"
 else speak_to_grandma == 'WHAT?'
-  puts "NO, NOT SINCE 1938!" 
+  puts "NO, NOT SINCE 1938!"
 end
