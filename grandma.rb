@@ -15,7 +15,7 @@ def speak_to_grandma
   puts "speak_to_grandma"
 if speak_to_grandma == phrase(I LOVE YOU GRANDMA!)
   puts "I LOVE YOU TOO PUMKPIN!"
-elsif speak_to_grandma == phrase(Hi, Nana, how are you?)
+elsif speak_to_grandma == phrase(Hi Nana, how are you?)
   puts "HUH?! SPEAK UP, SONNY!"
 elsif speak_to_grandma == phrase(Hi!)
   puts "HUH?! SPEAK UP, SONNY!"
